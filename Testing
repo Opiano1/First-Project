@@ -1,0 +1,4 @@
+def finance(x,y):
+  import math
+  x= math.pow(y)
+  return x
