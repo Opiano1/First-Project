@@ -1,2 +1,2 @@
 # First-Project
-Testing out my first project remote with github collaboration and git
+Designing of a Webpage with HTML & CSS
