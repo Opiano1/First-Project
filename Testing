@@ -1,5 +1,0 @@
-def finance(x,y):
-  import math
-  x= math.pow(y)
-  print 'Opiano is testing is first project on git'
-  return x
